@@ -1,0 +1,27 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangqiang0121/learning-node.git"
+  },
+  "author": "WangQiang",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wangqiang0121/learning-node/issues"
+  },
+  "homepage": "https://github.com/wangqiang0121/learning-node#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0"
+  }
+}
